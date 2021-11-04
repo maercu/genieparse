@@ -1,4 +1,4 @@
-import genieparse.genieparse
+import genieparse.genieparse as gp
 import json
 
 if __name__ == '__main__':
@@ -54,5 +54,5 @@ Configuration register is 0x2102
    '''
    cmd = 'show version'
    os = 'ios'
-   test = genieparse.parse(output, cmd, os)
+   test = gp.parse(output, cmd, os)
    print(json.dumps(test, indent=1))
