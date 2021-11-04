@@ -38,4 +38,4 @@ def parse(raw_cli_output, cmd, os, platform=None):
         return device.parse(cmd, output=raw_cli_output)
     except Exception as e:
         logger.error(f'unable to parse command ouput for {cmd} ({os})')
-        print(e)
+        logger.error(e)
