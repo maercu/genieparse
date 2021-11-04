@@ -10,7 +10,7 @@ Compiled Fri 09-Feb-18 11:27 by prod_rel_team
 
 ROM: System Bootstrap, Version 12.2(50r)SYS3, RELEASE SOFTWARE (fc1)
 
-ch-ins-33ru21-cs-00 uptime is 1 year, 8 weeks, 6 days, 16 hours, 52 minutes
+router1.acme.ch uptime is 1 year, 8 weeks, 6 days, 16 hours, 52 minutes
 Uptime for this control processor is 1 year, 8 weeks, 6 days, 16 hours, 44 minutes
 System returned to ROM by power on
 System restarted at 21:03:47 MEST Wed Sep 2 2020
